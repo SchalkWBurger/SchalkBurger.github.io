@@ -1,2 +1,1 @@
-# SchalkBurger.github.io
-Online CV
+# Schalk's Online CV
